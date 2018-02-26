@@ -1,0 +1,22 @@
+{
+  "name": "Flashcard-Generator",
+  "version": "1.0.0",
+  "description": "Generator of flashcards",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev244/Flashcard-Generator.git"
+  },
+  "author": "Dev Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev244/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/dev244/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}
